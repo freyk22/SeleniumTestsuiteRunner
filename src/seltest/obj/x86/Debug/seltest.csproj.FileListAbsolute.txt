@@ -1,0 +1,21 @@
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\obj\x86\Debug\seltest.MainForm.resources
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\obj\x86\Debug\seltest.csproj.GenerateResource.Cache
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\bin\Debug\seltaskrunner.exe
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\bin\Debug\seltaskrunner.pdb
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\obj\x86\Debug\seltaskrunner.exe
+C:\Documents and Settings\freek\Mijn documenten\SharpDevelop Projects\seltest\seltest\obj\x86\Debug\seltaskrunner.pdb
+C:\test\seltest\seltest\bin\Debug\seltaskrunner.exe
+C:\test\seltest\seltest\bin\Debug\seltaskrunner.pdb
+C:\test\seltest\seltest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\test\seltest\seltest\obj\x86\Debug\seltest.MainForm.resources
+C:\test\seltest\seltest\obj\x86\Debug\seltest.csproj.GenerateResource.Cache
+C:\test\seltest\seltest\obj\x86\Debug\seltaskrunner.exe
+C:\test\seltest\seltest\obj\x86\Debug\seltaskrunner.pdb
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\bin\Debug\testsuitestarter-gui.exe
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\bin\Debug\testsuitestarter-gui.pdb
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\obj\x86\Debug\seltest.MainForm.resources
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\obj\x86\Debug\seltest.csproj.GenerateResource.Cache
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\obj\x86\Debug\testsuitestarter-gui.exe
+C:\Users\freek.borgerink\Documents\sharpdevelop\seltest\obj\x86\Debug\testsuitestarter-gui.pdb
